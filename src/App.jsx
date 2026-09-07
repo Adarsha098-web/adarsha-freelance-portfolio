@@ -1373,19 +1373,19 @@ function App() {
               </option>
 
               <option value="Under ₹5,000">
-                Under ₹5,000
+                Under ₹1,000
               </option>
 
               <option value="₹5,000 - ₹15,000">
-                ₹5,000 - ₹15,000
+                ₹1,000 - ₹5,000
               </option>
 
               <option value="₹15,000 - ₹30,000">
-                ₹15,000 - ₹30,000
+                ₹5,000 - ₹10,000
               </option>
 
               <option value="₹30,000+">
-                ₹30,000+
+                ₹10,000+
               </option>
 
               <option value="Not sure yet">
